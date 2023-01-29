@@ -14,7 +14,7 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 ## Steps to Install:
 1. Download the epoch2utc repo from github to your computer where you want to install epoch2utc extension.
 
-2. Go to chrome browsert and type chrome://extensions/ and check the box for Developer mode in the top right.
+2. Go to chrome browser and type chrome://extensions/ and check the box for Developer mode in the top right.
 
 ![image](https://user-images.githubusercontent.com/26038756/215324078-9c9ba0ec-60bd-4c3f-ab30-91f4eba33385.png)
 
@@ -29,5 +29,6 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 #### Usage:
 ![image](https://user-images.githubusercontent.com/26038756/215324015-44aaa0c1-0698-4d85-b5c0-d08275670f86.png)
 
+**Note:** You can also copy all the converted date to notepad using Ctrl+V or Win+V and it has copy to clipboard feature enabled. If you face any issue, Please reach out to me. 
 
 #### If you face any issue, Please reach out to me on Linkedin - https://www.linkedin.com/in/subhash-thapa-8670b1115/ 
