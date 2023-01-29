@@ -7,7 +7,7 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 </p>
 </div>
 
-#### This is simple offline epoch convertor browser extension which do exactly what it says: convert Epoch to Human Readable format (UTC and your Local Time Zone). This extension doesn't monitor pages permanently. It acts on demand only.
+#### This is simple offline epoch convertor browser extension which do exactly what it says: convert Epoch to Human Readable format (UTC/GMT and your Local Time Zone). This extension doesn't monitor pages permanently. It acts on demand only.
 
 ### This extension is open source. Check it out on GitHub: https://github.com/erSubhashThapa/epoch2utc/
 
