@@ -1,0 +1,22 @@
+// Create a new directory for your extension and give it a name, for example "epoch-time-converter".
+
+// Inside the directory, create a new file called "manifest.json" and paste the following code.
+{
+    "manifest_version": 3,
+    "name": "Epoch Time Converter",
+    "version": "1.0",
+    "description": " It Converts selected 10 digit epoch timestamps to UTC and local time, highlights them in yellow, and copies them to the clipboard- Created by Subhash Thapa",
+    "icons": {
+    "48": "logo.png"
+    },
+    "permissions": [
+        "activeTab",
+        "clipboardWrite"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content-script.js"]
+        }
+    ]
+}
