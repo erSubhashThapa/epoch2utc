@@ -11,7 +11,7 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 
 ### This extension is open source. Check it out on GitHub: https://github.com/erSubhashThapa/epoch2utc/
 
-## Requirements:
+## Steps to Install:
 1. Download the epoch2utc repo from github to your computer where you want to install epoch2utc extension.
 
 2. Go to chrome browsert and type chrome://extensions/ and check the box for Developer mode in the top right.
