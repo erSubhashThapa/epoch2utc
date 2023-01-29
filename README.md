@@ -14,7 +14,7 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 ## Steps to Install:
 1. Download the epoch2utc repo from github to your computer where you want to install epoch2utc extension.
 
-2. Go to chrome browser and type chrome://extensions/ and check the box for Developer mode in the top right.
+2. Go to chrome/edge browser and type chrome://extensions/ and check the box for Developer mode in the top right.
 
 ![image](https://user-images.githubusercontent.com/26038756/215324078-9c9ba0ec-60bd-4c3f-ab30-91f4eba33385.png)
 
