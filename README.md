@@ -11,7 +11,7 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 
 ### This extension is open source. Check it out on GitHub: https://github.com/erSubhashThapa/epoch2utc/
 
-## Steps to Install:
+## Steps to Install and Use:
 1. Download the epoch2utc repo from github to your computer where you want to install epoch2utc extension.
 
 2. Go to chrome/edge browser and type chrome://extensions/ and check the box for Developer mode in the top right.
@@ -26,9 +26,10 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 5. Now, double click on the 10 digit/First 10 digit of Epoch time and you will see the converted date, you can also copy to notepad using using Ctrl+V or Win+V.
 
 ## Snapshots 
+#### Installed Extension:
 ![image](https://user-images.githubusercontent.com/26038756/215323822-317b7bbb-c834-4b94-bdb2-c4e93d3848ab.png)
 
-#### Usage:
+#### Epoch time Vs Result:
 ![image](https://user-images.githubusercontent.com/26038756/215324015-44aaa0c1-0698-4d85-b5c0-d08275670f86.png)
 
 **Note:** You can also copy all the converted date to notepad using Ctrl+V or Win+V and it has copy to clipboard feature enabled. If you face any issue, Please reach out to me. 
