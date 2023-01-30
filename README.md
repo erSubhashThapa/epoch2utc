@@ -23,6 +23,8 @@ Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subha
 
 4. Go back to the chrome://extensions/ page and click the Load unpacked extension button and select the unzipped folder for your extension to install it.
 
+5. Now, double click on the 10 digit/First 10d igit of Epoch time and ypou will see the converted date, you can also copy to notepad using using Ctrl+V or Win+V.
+
 ## Snapshots 
 ![image](https://user-images.githubusercontent.com/26038756/215323822-317b7bbb-c834-4b94-bdb2-c4e93d3848ab.png)
 
